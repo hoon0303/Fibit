@@ -1,2 +1,2 @@
-# BLEP
-Bigdata-based Living lab Education Platform
+# BLEP (Bigdata-based Living lab Education Platform)
+As part of the project being operated by the SW Central College initiative at Soonchunhyang University, we are building the BLEP (Bigdata-based Living lab Education Platform), which is a practical living-lab style platform. In this context, we are collecting sleep and activity data using Fitbit. The goal is to extract meaningful data through BLEP and aim for visualization and calorie prediction.
