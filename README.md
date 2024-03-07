@@ -1,5 +1,6 @@
 # Fibit (Calorie Prediction Through Sleep and Activity Data)
 As part of the project being operated by the SW Central College initiative at Soonchunhyang University, we are building the BLEP (Bigdata-based Living lab Education Platform), which is a practical living-lab style platform. In this context, They are collecting sleep and activity data using Fitbit. The goal is to extract meaningful data through BLEP and aim for visualization and calorie prediction.
+
 URL : http://aibig.sch.ac.kr.
 
 ## Monthly data visualization result
